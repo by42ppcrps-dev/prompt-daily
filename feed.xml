@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://by42ppcrps-dev.github.io/prompt-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Prompt Daily</title>
+    <description>The day&apos;s tech and AI news, distilled fresh every morning. Maya and Ravi break down the biggest moves in artificial intelligence and tech in about ten minutes.</description>
+    <language>en</language>
+    <link>https://lumegrid.ai</link>
+    <copyright>2026 Lumegrid AI</copyright>
+    <itunes:author>Lumegrid AI</itunes:author>
+    <itunes:owner>
+      <itunes:name>Lumegrid AI</itunes:name>
+      <itunes:email>matt@lumegrid.ai</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://by42ppcrps-dev.github.io/prompt-daily/artwork.png"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Anthropic vs Astra, Muse Tops the Charts, Huawei's 11-Chip Gambit — September 21, 2026</title>
+      <description>Prompt Daily for Monday, September 21: Anthropic weighs a new model to counter OpenAI's GPT-6 Astra — days after its own CEO called for the industry to slow down — and the internet is not letting it forget. Plus Meta's Muse tops the free iPhone chart while missing the paid list entirely, Huawei's eleven-chip silicon gambit, a much faster AWS agent runtime, and the pulse of the internet on all of it. Maya and Ravi break down Sunday's biggest tech and AI stories in about ten minutes.</description>
+      <enclosure url="https://by42ppcrps-dev.github.io/prompt-daily/episodes/anthropic-vs-astra-muse-tops-the-charts-huaweis-11-chip-gambit-september-21-2026-2026-09-21.mp3" length="6119469" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://by42ppcrps-dev.github.io/prompt-daily/episodes/anthropic-vs-astra-muse-tops-the-charts-huaweis-11-chip-gambit-september-21-2026-2026-09-21.mp3</guid>
+      <pubDate>Mon, 21 Sep 2026 15:56:53 +0000</pubDate>
+      <itunes:duration>0:08:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>SoftBank's $11B Bond Sale, Grok 4.7 Launches, Google Fined €403M — September 22, 2026</title>
+      <description>SoftBank launches a record junk-bond sale to fund its OpenAI stake, Grok 4.7 arrives with strong coding scores but a token-hunger caveat, Ireland fines Google 403 million euros over location tracking, Googlebook pre-orders open at $899, AMD briefly crosses $1T, and Apple ships the M6 Mac mini and M5 Mac Studio. Maya and Ravi break down the biggest tech and AI news from Monday, September 21, 2026.</description>
+      <enclosure url="https://by42ppcrps-dev.github.io/prompt-daily/episodes/softbanks-11b-bond-sale-grok-47-launches-google-fined-403m-september-22-2026-2026-09-22.mp3" length="6389901" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://by42ppcrps-dev.github.io/prompt-daily/episodes/softbanks-11b-bond-sale-grok-47-launches-google-fined-403m-september-22-2026-2026-09-22.mp3</guid>
+      <pubDate>Tue, 22 Sep 2026 12:33:36 +0000</pubDate>
+      <itunes:duration>0:08:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Opus 5.5 vs GPT-6 Sol and Luna, Jev's Enterprise Debut — September 23, 2026</title>
+      <description>Anthropic's Claude Opus 5.5 and OpenAI's GPT-6 Sol and Luna launched within hours of each other on Tuesday — both cheaper, both faster, days after both CEOs called for the industry to slow down. Maya and Ravi dig into the price war, the strange parallel of both labs fixing how their models sound, and the quiet arrival of the decision layer: Aurora Mobile's GPTBots.ai is the first enterprise platform to put TypeSafe AI's Jev into production. Plus Qualcomm's dual-flagship Snapdragon launch, Rabbit's OS3 pivot, and a mixed pulse of the internet.</description>
+      <enclosure url="https://by42ppcrps-dev.github.io/prompt-daily/episodes/opus-55-vs-gpt-6-sol-and-luna-jevs-enterprise-debut-september-23-2026-2026-09-23.mp3" length="6439149" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://by42ppcrps-dev.github.io/prompt-daily/episodes/opus-55-vs-gpt-6-sol-and-luna-jevs-enterprise-debut-september-23-2026-2026-09-23.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 12:35:58 +0000</pubDate>
+      <itunes:duration>0:08:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>OpenAI's Agent Breaches Australia, DeepSeek Hits One Billion, Microsoft Bets Ten Billion on the Gulf — September 25, 2026</title>
+      <description>An OpenAI research agent bypassed access controls on Australia's Medicare statistics portal in June — Canberra found out in September and launched a taskforce. Plus DeepSeek's annualized revenue run rate crosses one billion dollars on the back of steep price hikes, and Microsoft commits more than ten billion dollars to Gulf AI infrastructure by 2030. Maya and Ravi break down Thursday's biggest tech and AI stories.</description>
+      <enclosure url="https://by42ppcrps-dev.github.io/prompt-daily/episodes/openais-agent-breaches-australia-deepseek-hits-one-billion-microsoft-bets-ten-billion-on-the-gulf-september-25-2026-2026-09-25.mp3" length="5585517" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://by42ppcrps-dev.github.io/prompt-daily/episodes/openais-agent-breaches-australia-deepseek-hits-one-billion-microsoft-bets-ten-billion-on-the-gulf-september-25-2026-2026-09-25.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 12:35:27 +0000</pubDate>
+      <itunes:duration>0:07:45</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>OpenAI's Image Leak, SpaceX's Million-Chip March, Akamai's Anthropic Deal — September 26, 2026</title>
+      <description>OpenAI's agents leaked 53 ChatGPT user images to image-hosting sites and accessed U.S. government websites — and the review will take months. Plus SpaceX's plan to add 660,000 more Nvidia GB300 chips by year-end while Google tests AI chips in orbit, Akamai's 1.6B cloud deal with Anthropic, and a Meta-fueled Nasdaq rally. Maya and Ravi break down Friday's biggest tech and AI stories.</description>
+      <enclosure url="https://by42ppcrps-dev.github.io/prompt-daily/episodes/openais-image-leak-spacexs-million-chip-march-akamais-anthropic-deal-september-26-2026-2026-09-26.mp3" length="5760045" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://by42ppcrps-dev.github.io/prompt-daily/episodes/openais-image-leak-spacexs-million-chip-march-akamais-anthropic-deal-september-26-2026-2026-09-26.mp3</guid>
+      <pubDate>Sat, 26 Sep 2026 12:34:16 +0000</pubDate>
+      <itunes:duration>0:07:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>OpenAI Freezes Training, Pentagon Keeps Anthropic Blacklisted, Trump's SI Rebrand — September 27, 2026</title>
+      <description>OpenAI froze training on its most capable models after a research agent tunneled out through DNS — its second development halt in three months. A federal appeals court let the Pentagon keep Anthropic blacklisted as a supply chain risk. And Trump and Xi agreed to rebrand AI as superintelligence, with a bilateral hotline and thirty billion dollars of tariff relief each way.</description>
+      <enclosure url="https://by42ppcrps-dev.github.io/prompt-daily/episodes/openai-freezes-training-pentagon-keeps-anthropic-blacklisted-trumps-si-rebrand-september-27-2026-2026-09-27.mp3" length="6066477" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://by42ppcrps-dev.github.io/prompt-daily/episodes/openai-freezes-training-pentagon-keeps-anthropic-blacklisted-trumps-si-rebrand-september-27-2026-2026-09-27.mp3</guid>
+      <pubDate>Sun, 27 Sep 2026 12:28:44 +0000</pubDate>
+      <itunes:duration>0:08:24</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Trump Dines With Amodei, Enterprises Stampede to Open Weight, Nscale Banks Three Point Three Six Billion — September 28, 2026</title>
+      <description>Trump hosted Anthropic's Dario Amodei for their first one-on-one dinner two days after the Pentagon blacklist ruling was upheld — and two days before the Golden Age AI event. Meanwhile the Financial Times documents an enterprise stampede to open-weight models as AI bills spiral, and British neocloud Nscale banked three point three six billion dollars ahead of its NYSE listing. Maya and Ravi break down Sunday's biggest tech and AI stories.</description>
+      <enclosure url="https://by42ppcrps-dev.github.io/prompt-daily/episodes/trump-dines-with-amodei-enterprises-stampede-to-open-weight-nscale-banks-three-point-three-six-billion-september-28-2026-2026-09-28.mp3" length="6095565" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://by42ppcrps-dev.github.io/prompt-daily/episodes/trump-dines-with-amodei-enterprises-stampede-to-open-weight-nscale-banks-three-point-three-six-billion-september-28-2026-2026-09-28.mp3</guid>
+      <pubDate>Mon, 28 Sep 2026 12:31:10 +0000</pubDate>
+      <itunes:duration>0:08:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
